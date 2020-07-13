@@ -4,7 +4,7 @@
 ## Seja bem vindo 👋  
 
 
-- 🔭  Atualmente trabalho como desenvolvedor Protheus - Software ERP desenvolvido pela TOTVS.
+- 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
 - 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
 - ⚡ Tempo livre: aquela voltinha de moto, boteco e reunião com os amigos.
