@@ -1,8 +1,8 @@
 # Lucas Brustolin  
 
-
 ## Seja bem vindo 👋  
 
+![02.gif](./resource/02.gif)
 
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
