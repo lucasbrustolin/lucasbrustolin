@@ -7,8 +7,8 @@
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - Software ERP desenvolvido pela TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
 - 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
-- ⚡ Tempo livre: aquele role de moto, boteco e reunião com os amigos.
-- 📫 DEV: https://dev.to/lucasbrustolin
+- ⚡ Tempo livre: aquela voltinha de moto, boteco e reunião com os amigos.
+- 📱 <a href= "https://api.whatsapp.com/send?phone=5511964114116&text=Ola,%20Lucas%20Brustolin"> Whatsapp </a>
 
 <p align="center">
 <a href= "http://lucasbrustolin.epizy.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
