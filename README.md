@@ -1,16 +1,13 @@
-### Hi there 👋
+# Lucas Brustolin  
 
-<!--
-**lucasbrustolin/lucasbrustolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Seja bem vindo 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭  Atualmente trabalho como desenvolvedor Protheus - Software ERP desenvolvido pela TOTVS.
+- 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
+- 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
+- ⚡ Tempo livre: aquele role de moto, boteco e reunião com os amigos.
+- 📫 DEV: https://aashutosh.dev
+
+[! [Distintivo do Linkedin] (https://img.shields.io/badge/-aashutoshrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brustolin/)] (https://www.linkedin.com/in/brustolin/)
