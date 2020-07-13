@@ -2,7 +2,7 @@
 
 ## Seja bem vindo 👋  
 
-![03.gif](./resource/03.gif)
+![04.gif](./resource/04.gif)
 
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
