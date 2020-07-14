@@ -8,7 +8,7 @@
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
 - 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
 - ⚡ Tempo livre: aquela voltinha de moto, boteco e reunião com os amigos.
-- <a href="https://api.whatsapp.com/send?phone=5577999999878&text=Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964114116&text=Olá!)</a>
+- <a href="https://api.whatsapp.com/send?phone=5511964114116&text=Github.com -> Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964114116&text=Olá!)</a>
 
 <p align="center">
 <a href= "http://lucasbrustolin.epizy.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
