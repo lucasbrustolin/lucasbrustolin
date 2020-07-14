@@ -1,4 +1,3 @@
-# Lucas Brustolin  
 
 ## Seja bem vindo 👋  
 
