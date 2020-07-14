@@ -2,8 +2,6 @@
 
 ## Seja bem vindo 👋  
 
-![04.gif](./resource/04.gif)
-
  <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/04.gif" width=350>
 
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
