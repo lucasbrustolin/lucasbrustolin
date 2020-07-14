@@ -4,10 +4,10 @@
  <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/00.gif" width=100>
   <br><br>
 
-- 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
-- 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
-- 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
-- ⚡ Tempo livre: aquela voltinha de moto, boteco e reunião com os amigos.
+- 🔭 Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
+- 📖 Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
+- ⚡ Busco em colaborar em projetos e pequenas customizações ADVPL.
+- 👨‍Tempo livre: aquele role de moto, boteco e reunião com os amigos.
 - <a href="https://api.whatsapp.com/send?phone=5511964114116&text=Github.com -> Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964114116&text=Olá!)</a>
 
 <p align="center">
