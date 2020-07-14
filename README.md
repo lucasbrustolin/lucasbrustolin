@@ -6,7 +6,7 @@
 
 - :computer: Atualmente trabalho com desenvolvimento de customizações para o ERP Protheus - TOTVS.
 - 📖 Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
-- ⚡ Busco em colaborar em projetos e pequenas customizações ADVPL.
+- :octocat: Busco em colaborar em projetos e pequenas customizações ADVPL.
 - 👨‍Tempo livre: aquele role de moto, boteco e reunião com os amigos.
 - <a href="https://api.whatsapp.com/send?phone=5511964114116&text=Github.com -> Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964114116&text=Olá!)</a>
 
