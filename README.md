@@ -4,7 +4,7 @@
  <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/00.gif" width=100>
   <br><br>
 
-- :computer: Atualmente trabalho com desenvolvimento de customizações para o ERP Protheus - TOTVS.
+- :computer: Atualmente trabalho desenvolvendo customizações para o ERP Protheus - TOTVS.
 - 📖 Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
 - :octocat: Busco em colaborar em projetos e pequenas customizações ADVPL.
 - :biking_man: Tempo livre: Moto, games, viagens, barzinhos, churrasco e amigos.
