@@ -4,6 +4,8 @@
 
 ![04.gif](./resource/04.gif)
 
+ <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/04.gif" width=350>
+
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
 - 👨‍ Busco em colaborar em projetos e pequenas customizações ADVPL.
