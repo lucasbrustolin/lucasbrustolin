@@ -10,6 +10,8 @@
 - 👨‍Tempo livre: aquele role de moto, boteco e reunião com os amigos.
 - <a href="https://api.whatsapp.com/send?phone=5511964114116&text=Github.com -> Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964114116&text=Olá!)</a>
 
+  <br><br>
+
 <p align="center">
 <a href= "http://lucasbrustolin.epizy.com/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/brustolin/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
