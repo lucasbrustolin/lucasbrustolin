@@ -1,7 +1,7 @@
 
 ## Seja bem vindo 👋  
 
- <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/04.gif" width=350>
+ <img src="https://raw.githubusercontent.com/lucasbrustolin/lucasbrustolin/master/resource/00.gif" width=100>
 
 - 🔭  Atualmente trabalho como desenvolvedor Protheus - ERP TOTVS.
 - 📖  Estudando novas tecnologias como React Native e PO-UI "Portinari" biblioteca de componentes baseado em Angular".✨ 🔭.
